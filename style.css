@@ -1,0 +1,38 @@
+body {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 20px;
+  background: url(bg.jpg);
+  text-align: center; }
+
+input {
+  border: 2px solid gray;
+  border-radius: 5px;
+  line-height: 25px; }
+
+form {
+  background-color: rgba(100, 100, 150, 0.7);
+  border-top: 1px solid green;
+  border-right: 2px solid blue;
+  border-bottom: 3px solid red;
+  border-left: 4px solid yellow;
+  border-radius: 5px;
+  margin: 50px;
+  margin: 10px 15px 12px 30px; }
+
+label {
+  text-decoration: underline;
+  font-style: italic; }
+
+.rel {
+  text-decoration: none; }
+
+h3 {
+  text-decoration: underline; }
+
+div {
+  margin: 10px; }
+
+[type="submit"] {
+  margin-bottom: 10px; }
+
+/*# sourceMappingURL=style.css.map */
